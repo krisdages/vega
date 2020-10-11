@@ -1,5 +1,5 @@
 {
-  "name": "vega-functions",
+  "name": "@krisdages/vega-functions",
   "version": "5.8.0",
   "description": "Custom functions for the Vega expression language.",
   "keywords": [
@@ -24,7 +24,7 @@
     "d3-array": "^2.7.1",
     "d3-color": "^2.0.0",
     "d3-geo": "^2.0.1",
-    "vega-dataflow": "^5.7.3",
+    "vega-dataflow": "npm:@krisdages/vega-dataflow@^5.7.3",
     "vega-expression": "^3.0.0",
     "vega-scale": "^7.1.1",
     "vega-scenegraph": "^4.9.2",

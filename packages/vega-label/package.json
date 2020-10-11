@@ -1,5 +1,5 @@
 {
-  "name": "vega-label",
+  "name": "@krisdages/vega-label",
   "version": "1.0.0",
   "description": "Label layout transform for Vega dataflows.",
   "keywords": [
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "vega-canvas": "^1.2.5",
-    "vega-dataflow": "^5.7.3",
+    "vega-dataflow": "npm:@krisdages/vega-dataflow@^5.7.3",
     "vega-scenegraph": "^4.9.2",
     "vega-util": "^1.15.2"
   },

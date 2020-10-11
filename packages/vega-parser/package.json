@@ -1,5 +1,5 @@
 {
-  "name": "vega-parser",
+  "name": "@krisdages/vega-parser",
   "version": "6.1.0",
   "description": "Parse Vega specifications to runtime dataflows.",
   "keywords": [
@@ -22,9 +22,9 @@
     "prepublishOnly": "yarn test && yarn build"
   },
   "dependencies": {
-    "vega-dataflow": "^5.7.3",
+    "vega-dataflow": "npm:@krisdages/vega-dataflow@^5.7.3",
     "vega-event-selector": "^2.0.6",
-    "vega-functions": "^5.8.0",
+    "vega-functions": "npm:@krisdages/vega-functions@^5.8.0",
     "vega-scale": "^7.1.1",
     "vega-util": "^1.15.2"
   }

@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "vega-canvas": "^1.2.5",
-    "vega-dataflow": "^5.7.3",
+    "vega-dataflow": "npm:@krisdages/vega-dataflow@^5.7.3",
     "vega-scale": "^7.1.1",
     "vega-statistics": "^1.7.9",
     "vega-util": "^1.15.2"

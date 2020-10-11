@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "d3-delaunay": "^5.3.0",
-    "vega-dataflow": "^5.7.3",
+    "vega-dataflow": "npm:@krisdages/vega-dataflow@^5.7.3",
     "vega-util": "^1.15.2"
   },
   "devDependencies": {

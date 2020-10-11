@@ -1,5 +1,5 @@
 {
-  "name": "vega-geo",
+  "name": "@krisdages/vega-geo",
   "version": "4.3.7",
   "description": "Geographic data transforms for Vega dataflows.",
   "keywords": [
@@ -26,7 +26,7 @@
     "d3-color": "^2.0.0",
     "d3-geo": "^2.0.1",
     "vega-canvas": "^1.2.5",
-    "vega-dataflow": "^5.7.3",
+    "vega-dataflow": "npm:@krisdages/vega-dataflow@^5.7.3",
     "vega-projection": "^1.4.5",
     "vega-statistics": "^1.7.9",
     "vega-util": "^1.15.2"
